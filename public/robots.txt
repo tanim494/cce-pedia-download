@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://cce-pedia.vercel.app/sitemap.xml
-Host: https://cce-pedia.vercel.app
